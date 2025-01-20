@@ -1,4 +1,4 @@
-### Uruchomienie programu
+### Uruchomienie programu morph_snakes.py
 Aby uruchomić program należy zainstalować pakiet scikit-image poprzez `pip install scikit-image`.
 Następnie ustawić zmienną `INPUT_NAME` na nazwę pliku wejściowego (obrazu). Program utworzy dwa animowane pliki typu gif z przeprowadzoną segmentacją metodami GAC i ACWE
 
